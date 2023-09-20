@@ -8,5 +8,6 @@ class Shishir:
             time.sleep(0.040)
 os.system("clear")
 Shishir('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mThis Tools Currently Off Now,, Please Weat For Our Next Free Tools...')
-time.sleep(3)
+time.sleep(2)
 os.system("xdg-open https://www.facebook.com/shishir.ahmed.z")
+time.sleep(4)
